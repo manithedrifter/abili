@@ -39,6 +39,8 @@ public class Fk
 		test3
 		test4
 		tst5
+		test6
+		test7
 		
 	}
 
